@@ -41,9 +41,9 @@ export default function Page() {
     <div className="overflow-hidden flex flex-col items-center justify-center pt-4 h-screen -mt-16 selection:bg-rose-600 selection:text-white text-zinc-900">
       {yesPressed ? (
         <>
-          <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
+          <img src="https://s3.filebin.net/filebin/85bf427f2543fa80cca878d1e16bd9d5816d3e11797f0162e4dd53a9a2342f9e/9f6684fcac4849fd7dac2c9240ef3642353bb98054d85a559395a96d21542120?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=7pMj6hGeoKewqmMQILjm%2F20250212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250212T055635Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&response-cache-control=max-age%3D60&response-content-disposition=filename%3D%22WhatsApp%20Image%202025-02-11%20at%2021.42.08_06ebc049.jpg%22&response-content-type=image%2Fjpeg&X-Amz-Signature=918251de359bdd5188a7e171d74fc9c095874022c266b9679f533f07ac6501bd" />
           <div className="text-4xl md:text-6xl font-bold my-4">
-            Ok Yayyyyy!!!
+            I know you would say yes, Big HEAD , lol . Yayyyyy!!!
           </div>
         </>
       ) : (
@@ -61,7 +61,7 @@ export default function Page() {
             src="https://gifdb.com/images/high/cute-Love-bear-roses-ou7zho5oosxnpo6k.gif"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
-            Will you be my Valentine?
+            Sweet Melika, Queen of Queens , Goddess of mecca , My Love ,Will you be my Valentine?
           </h1>
           <div className="flex flex-wrap justify-center gap-2 items-center">
             <button
